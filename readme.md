@@ -8,7 +8,7 @@
 
 `器乐`：
 
-- `管乐``
+- `管乐`
 - `弦乐`
 
 `vocal`：
@@ -20,19 +20,6 @@
 
 
 `古典诗歌`：测重键盘视奏能力；
-
-
-
-
-
-`midiculous` Serial Number:
-`RSFN-FG5Q-S3BP-WGUU-8FC7-56BB-NWTA`
-
-https://www.youtube.com/watch?v=YYIYneoXrFA
-
-FL
-
-guitar neck /Tab
 
 
 
